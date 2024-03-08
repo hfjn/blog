@@ -1,0 +1,4 @@
+baseURL: 'https://hfjn.de/'
+languageCode: 'en-us'
+title: 'hfjn'
+theme: ["PaperMod"]
